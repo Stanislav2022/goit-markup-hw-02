@@ -86,7 +86,7 @@
   letter-spacing: 0.03em;
   color: #757575;
 }
-/* ===== Footer ===== */
+/* ===== Подвал ===== */
 .footer-addresses-link {
   font-family: "Roboto", sans-serif;
   font-weight: normal;
@@ -103,4 +103,29 @@
   line-height: 1.71;
   letter-spacing: 0.03em;
   /* color: rgba(255, 255, 255, 0.6); */
+}
+/* ====== Портфолио ======= */
+.portfolio-filter-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.63;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.portfolio-projects-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.portfolio-projects-desc {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
